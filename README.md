@@ -1,7 +1,7 @@
 # Homework 3
 
 * Assigned: 3/11
-* Due: 4/1 @ 10AM ET
+* Due: 4/8 @ 10AM ET
 * worth 3.75% of your grade
 
 In this assignment it's time to get real!  You'll first flex your SQL

@@ -4,6 +4,8 @@
 * Due: 4/8 @ 10AM ET
 * worth 3.75% of your grade
 
+**Update 4/3: Question 2.4 has been removed.**
+
 In this assignment it's time to get real!  You'll first flex your SQL
 muscles by
 writing SQL and reflecting on the experience.  
@@ -84,8 +86,8 @@ Suppose we have the functional dependencies:
 
 (2 points) **Q2.3**: What are the keys in 'iowa'?
 
-(3 points) **Q2.4**: Decompose `iowa` into 3NF (Third Normal Form).  Write a few sentences to justify
-  why you chose the tables you did.  
+~~(3 points) **Q2.4**: Decompose `iowa` into 3NF (Third Normal Form).  Write a few sentences to justify
+  why you chose the tables you did.~~  (2.4 removed as we did not fully cover 3NF in class)
 
 (2 points) **Q2.5**: Is your schema redundancy and anomaly free?  Justify your answer in
    a few sentences.

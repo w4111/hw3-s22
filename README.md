@@ -87,10 +87,10 @@ Suppose we have the functional dependencies:
 (2 points) **Q2.3**: What are the keys in 'iowa'?
 
 ~~(3 points) **Q2.4**: Decompose `iowa` into 3NF (Third Normal Form).  Write a few sentences to justify
-  why you chose the tables you did.~~  (2.4 removed as we did not fully cover 3NF in class)
+  why you chose the tables you did.~~
 
-(2 points) **Q2.5**: Is your schema redundancy and anomaly free?  Justify your answer in
-   a few sentences.
+~~(2 points) **Q2.5**: Is your schema redundancy and anomaly free?  Justify your answer in
+   a few sentences.~~ (2.4 and 2.5 removed as we did not fully cover 3NF in class)
 
 (2 points) **Q2.6**: We want to ensure that an order cannot purchase more than 10
    bottles (`bottle_qty`).  Can you enforce this using functional 

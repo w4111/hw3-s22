@@ -4,7 +4,7 @@
 * Due: 4/8 @ 10AM ET
 * worth 3.75% of your grade
 
-**Update 4/3: Question 2.4 has been removed.**
+**Update 4/3: Questions 2.4, 2.5 have been removed.**
 
 In this assignment it's time to get real!  You'll first flex your SQL
 muscles by
